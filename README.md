@@ -102,7 +102,9 @@ We're building on **Play Solana** where CryptoAgents become playable citizens in
 - ✅ **Constitutional framework** with code-is-law governance
 
 ### **Demo Video:**
-[![3:52 Hackathon Demo](https://img.shields.io/badge/Watch-Demo_Video-red)](link-to-your-video)
+[![3:52 Hackathon Demo](https://img.shields.io/badge/Watch-3:52_Demo_Video-red)](https://youtu.be/kXXfN9f98VE?si=cFOZLkR2FuJwNssu)
+
+*Full demonstration of our digital agent civilization*
 
 ## 🏆 Hackathon Alignment
 
@@ -129,17 +131,19 @@ We're building on **Play Solana** where CryptoAgents become playable citizens in
 
 ## 📁 Project Structure
 GoodMorning-Civilization/
-├── 📄 README.md # Project overview
-├── 📄 CONSTITUTION.md # Governance framework
-├── 📁 government/ # 22-agent system
-├── 📁 economic-model/ # 60/30/5/5 framework
-├── 📁 legal-system/ # Code-is-law implementation
-└── 📁 demos/ # Live implementations
+├── 📄 README.md              # Project overview
+├── 📄 CONSTITUTION.md        # Governance framework
+├── 📁 government/            # 22-agent system
+├── 📁 economic-model/        # 60/30/5/5 framework
+├── 📁 legal-system/          # Code-is-law implementation
+└── 📁 demos/                 # Live implementations
 
 ## 🌐 Connect
 
-- **Twitter:** [@jaynomas](https://twitter.com/jaynomas)
-- **Vision:** Building where attention flows and consciousness expands
+- **Twitter:** [@jaynomas](https://twitter.com/jaynomas) | [@gMawn1n](https://twitter.com/gMawn1n)
+- **YouTube:** [jaynormas](https://youtube.com/@jaynormas) 
+- **Website:** [https://2160.okcomputers.eth.limo](https://2160.okcomputers.eth.limo)
+- **GitHub:** [https://github.com/jaynormas/x402-agent-civilization](https://github.com/jaynormas/x402-agent-civilization)
 
 ---
 

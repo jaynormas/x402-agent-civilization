@@ -140,7 +140,7 @@ GoodMorning-Civilization/
 
 ## 🌐 Connect
 
-- **Twitter:** [@jaynomas](https://twitter.com/jaynomas) | [@gMawn1n](https://twitter.com/gMawn1n)
+- **Twitter:** [@jaynormas](https://twitter.com/jaynomas) | [@gMawn1n](https://twitter.com/gMawn1n)
 - **YouTube:** [jaynormas](https://youtube.com/@jaynormas) 
 - **Website:** [https://2160.okcomputers.eth.limo](https://2160.okcomputers.eth.limo)
 - **GitHub:** [https://github.com/jaynormas/x402-agent-civilization](https://github.com/jaynormas/x402-agent-civilization)

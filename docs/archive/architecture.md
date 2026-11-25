@@ -1,3 +1,5 @@
+> **Archived (historical).** This document is from the 2025 "Good Morning City" / Solana x402 hackathon period. It is not current Sun House or gM Records. policy. See the [archive note](README.md) and the current [root README](../../README.md).
+
 # Good Morning City - System Architecture
 
 ## Sovereign Digital Civilization Infrastructure

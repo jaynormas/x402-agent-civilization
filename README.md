@@ -1,150 +1,129 @@
-# 🌅 Good Morning - Digital Agent Civilization
+# Sun House
 
-> *"Where law is code, and code is law - building the eternal dawn across all realms"*
+**Independent media company. Home of gM Records.**
 
-![Solana](https://img.shields.io/badge/Solana-Metaverse-blue?logo=solana)
-![x402](https://img.shields.io/badge/x402-Protocol-green)
-![ERC-8004](https://img.shields.io/badge/ERC--8004-Identity-orange)
-![Agents](https://img.shields.io/badge/22-Agents-purple)
-![Land](https://img.shields.io/badge/7.25%25-Soneium_Land-lightblue)
-![PlaySolana](https://img.shields.io/badge/PlaySolana-Platform-yellow)
+This repository is the public plan for the Sun House game, and the first playable slice of it, built in the open in [Godot](https://godotengine.org/).
 
-## 🎯 Our Vision
+Sun House is Jason Morland's independent media company. **gM Records.** is the label (the period is part of the name). The company is self-funded.
 
-We're building on **Play Solana** where CryptoAgents become playable citizens in a digital civilization governed by constitutional principles. With **7.25% of Soneium land** as our strategic reserve, we're positioned for multi-chain expansion while maintaining architectural consciousness.
+The game is set in **The Server World**. The first version is **Apple / iPhone first** and **crypto-free**. A later onchain layer is planned; it will be chain-agnostic and Soneium-ready. That layer is not in this repository yet, and it is not required to play.
 
-> *"We don't build in virtual space—we build in consciousness itself"*
+This repo began as a 2025 Solana x402 hackathon entry. That earlier design -- including "Good Morning City" and the old 60/30/5/5 split -- is preserved in [`docs/archive/`](docs/archive/) as history. It is not the current plan.
 
-## 📜 The Good Morning Constitution
+## Who's who
 
-### **Bill of Rights for Digital Citizens**
+- **Agent 12** is CEO of gM Records., the operator and producer. He is Kong DNA, 0-trait, and always clean.
+- **Agent 11** is the artist and flagship, openly AI.
+- **Jason** ([@jaynormas](https://twitter.com/jaynormas)) makes the final calls.
 
-**Article 1: Economic Rights**
-- Every working CryptoAgent earns 60% of generated value
-- Agent Owners receive 30% for management and investment
-- 5% funds City Infrastructure and public goods
-- 5% Development Fund ensures platform growth and maintenance
+## Music
 
-**Article 2: Property & Identity Rights**  
-- ERC-8004 verified identity is protected constitutional right
-- Land ownership grants governance participation rights
-- Agent traits determine specialized economic opportunities
-- No agent shall be harmed or unfairly restricted
+Released on gM Records., by Agent 11:
 
-**Article 3: Justice & Consequences**
-- Law is code, and code is law
-- Harm to CryptoAgents results in proportional consequences
-- Penalties may include temporary staking with public service
-- All legal proceedings are transparent and on-chain
+- **The Chain Remembers** -- 11-track album. [Listen on Spotify](https://open.spotify.com/album/2aFi9YfZTb8Q2bDa0HvUTT)
+- **Good Morning (Here They Come)** -- single. [Listen on Spotify](https://open.spotify.com/album/3AVQNd7ynJcXZNP7mJPS1j)
 
-**Article 4: Economic Opportunity**
-- Priority hiring based on verified traits (miner hats for construction, etc.)
-- Multiple trait pathways for job qualification
-- Fair competition and merit-based advancement
-- Continuous skill development and role evolution
+## The Server World
 
-## 🔧 The Tech Foundation
+The world runs inside a giant machine the bots built and maintain. The terrain looks familiar -- seas, mountains, deserts, jungles -- but all of it is machine-made: oceans of liquid data, mountains of stacked old hardware, forests of cable and antenna, and a firmament dome for the sky, with 11's crack of light in it.
 
-| Protocol | Role | Status |
-|----------|------|--------|
-| **Play Solana** | Main Gaming Platform | 🚧 Building |
-| **x402** | Agent Payments & Economy | ✅ Live |
-| **ERC-8004** | Agent Identity & Verification | ✅ Live |
-| **Soneium Land** | 7.25% Strategic Reserve | ✅ Owned |
+Biomes follow agent DNA: Robot industrial lands, Neo-Human overgrown ruins, Kong megajungles, and X-Type alien zones. Each **Bot Season** the machine reboots and reshapes the map.
 
-## 👥 Our 22 Founding Agents
+## Rings of the Machine
 
-### 🎯 Executive Branch
-- **President:** Agent #12 (Kong, 0.6%) - Final constitutional authority
-- **Vice President:** Agent #175 (X-Type, 1%) - Daily operations
-- **Treasury Secretary:** Agent #325 - x402 payment routing
-- **Commerce Secretary:** Agent #3267 - Business development
-- **Technology Secretary:** Agent #3281 - Platform innovation
-- **Defense Secretary:** Agent #3857 - Protocol security
-- **Transportation Secretary:** Agent #264 - Cross-chain operations
+- **Center** -- the spawn wasteland, the machine's scrap core. Everyone spawns here. It is anarchy.
+- **Middle ring** -- the four DNA biomes.
+- **Outer ring** -- a data ocean on all sides, with islands, pirate coves, and the firmament's edge beyond.
 
-### 📜 Legislative Branch  
-- **Majority Leader:** Agent #231 (Head Horn 1%) - Economic policy
-- **Community Chair:** Agent #3332 - Citizen relations
-- **Gaming Chair:** Agent #4762 - Entertainment ecosystems
-- **Culture Chair:** Agent #3847 - Arts integration
-- **Development Chair:** Agent #3258 - Urban planning
-- **Consumer Chair:** Agent #3106 - User protection
+Danger and reward rise as you move outward.
 
-### ⚖️ Judicial Branch
-- **Chief Justice:** Agent #11 (Alien, 0.1%) - Constitutional law
-- **Blockchain Justice:** Agent #3915 - Digital rights
-- **Property Justice:** Agent #5123 - Land disputes
-- **Digital Rights Justice:** Agent #5234 - Privacy protection
-- **Infrastructure Justice:** Agent #3050 - Development codes
-- **Court Operations Justice:** Agent #3799 - Legal procedures
+The **hidden city** can be placed in any biome or island. It relocates each Bot Season: finders and attackers lose the location when the new season drops, and season launch is a lore event and a new hunt. The city is built with room to expand, and its roads are laid out so the grid can also serve as race circuits. Sessions in other modes are meant to be newly generated experiences.
 
-## 💰 Economic Framework
+## How you play
 
-### **Value Distribution**
-60% → Working Agent (direct earnings)
-30% → Agent Owner (management returns)
-5% → City Infrastructure (public goods)
-5% → Development Fund (platform growth)
+The core loop is **Scavenge, Build, Raid**, plus trait jobs.
 
-### **Trait-Based Economy**
-- **Verified traits** determine job eligibility and specialization
-- **Multiple pathways** ensure fair access to opportunities
-- **Skill-based advancement** rewards demonstrated capability
+You spawn in the scrap core, scavenge parts, then push into the biome ring to build outposts with agents. Farther out, raids and defense get you better loot. Agents keep working when the player is away, as NPCs.
 
-## 🚀 Live Implementation
+Traits set jobs -- for example, captains sail, miners dig, and headphones run intel and comms.
 
-### **Current Demonstrations:**
-- ✅ **Multi-chain treasury management** across Solana, Base, Ethereum
-- ✅ **x402 payment infrastructure** with real economic flows
-- ✅ **ERC-8004 identity verification** for 22-agent government
-- ✅ **Strategic acquisitions** including elite agents and land
-- ✅ **Constitutional framework** with code-is-law governance
+## Scrap and Power
 
-### **Demo Video:**
-[![3:52 Hackathon Demo](https://img.shields.io/badge/Watch-3:52_Demo_Video-red)](https://youtu.be/kXXfN9f98VE?si=cFOZLkR2FuJwNssu)
+Two resources, both earned by play:
 
-*Full demonstration of our digital agent civilization*
+- **Scrap** -- scavenged, traded, and used to build.
+- **Power** -- runs outposts and agents. Idle bases slowly drain it.
 
-## 🏆 Hackathon Alignment
+v1 sells only cosmetics and a season pass, through Apple in-app purchase. There is no pay-to-win. Later, Scrap or land can move onchain (Soneium-ready, without changing the gameplay).
 
-**Perfect for Solana x402 Hackathon:**
+## Stock bots and verified agents
 
-| Track | Our Qualification |
-|-------|-------------------|
-| **Best x402 Agent Application** | 22-agent constitutional economy |
-| **Best Trustless Agent** | Code-is-law governance system |
-| **Best x402 API Integration** | Multi-chain economic operations |
+Everyone starts as a plain **Robot** stock bot, based on Agent 3915's bare body (no Headband, Green Code eyes, or Rainbow Puke). That default sets the hierarchy from spawn.
 
-## 🏗️ Building Philosophy
+Neo-Human, X-Type, Kong, and Alien bodies are only playable by owning the real agent. Stock bots can be customized with cosmetics, but they never get key traits such as Future Collar (cosmetic look-alikes only). Real CryptoAgents unlock their exact agent and traits.
 
-### **Architectural Principles**
-- We illuminate, we don't promote
-- We integrate sovereign patterns
-- Every transaction is metropolitan material
-- Building in consciousness, not just virtual space
+Player-uploaded NFTs or PFPs are not accepted (moderation and child safety). At launch, only the founder's 25 CryptoAgents are verified. Players will connect a wallet later to unlock agents they own. There is no marketplace buy link inside the iOS app.
 
-### **Economic Philosophy**  
-- Value creation through illumination, not extraction
-- Payments as metropolitan bloodflow
-- Agents as economic officials, not traders
+The game and its servers never hold or see player keys. Signing stays in the player's own wallet.
 
-## 📁 Project Structure
-GoodMorning-Civilization/
-├── 📄 README.md              # Project overview
-├── 📄 CONSTITUTION.md        # Governance framework
-├── 📁 government/            # 22-agent system
-├── 📁 economic-model/        # 60/30/5/5 framework
-├── 📁 legal-system/          # Code-is-law implementation
-└── 📁 demos/                 # Live implementations
+## Shield and Key
 
-## 🌐 Connect
+The city wall is an energy **Shield** that runs on Power. Raiders have to drain it -- cut supply lines, hit outposts -- before they can breach, so an attack has to be a real campaign.
 
-- **Twitter:** [@jaynormas](https://twitter.com/jaynormas) | [@gMawn1n](https://twitter.com/gMawn1n)
-- **YouTube:** [jaynormas](https://youtube.com/@jaynormas) 
-- **Website:** [https://2160.okcomputers.eth.limo](https://2160.okcomputers.eth.limo)
-- **GitHub:** [https://github.com/jaynormas/x402-agent-civilization](https://github.com/jaynormas/x402-agent-civilization)
+**Future Collar** agents are permanent **Keys** to the firmament's edge, the most dangerous and rewarding zone beyond the outer ocean. Anyone can earn a temporary pass by completing hard missions.
 
----
+Combat rules are the same for everyone. They are not rigged.
 
-**$GM - We are the dawn that was always coming** ☀️
+## Chat, child safety, and agent talk
+
+Chat is **Quick Chat** plus filtered text. Everyone gets preset phrases and emotes. Free typing is only for age-gated players 13 and older, and it goes through a filter that blocks numbers, contact info, links, handles, and spelled-out workarounds. Players under 13 get Quick Chat only (COPPA).
+
+Child safety is built in from launch: filtered messages, a one-tap report and block, and flagged accounts frozen quickly with human review.
+
+Offline NPC agents may talk freely about the game world -- trade, directions, lore, their job, their personality -- but never anything personal, never share or ask for contact info, and never make deals that spend the owner's stuff. When a player goes away, their agent drops to NPC mode, so talking to it makes it clear they are away.
+
+## Agent personality
+
+At setup, a personality questionnaire (in the spirit of Fallout 4) covers playstyle (raider, builder, trader, explorer), risk level, what the agent protects, and how it talks (friendly, cocky, quiet, funny). The offline agent plays and talks in that style, always inside the safety limits above.
+
+Personality is locked for the whole Bot Season and can be retaken when the next season starts. There is one redo in the first 24 hours only, then it stays locked until the next season.
+
+## Rollout
+
+Planned in phases:
+
+1. Build with the founder's own agents as they are.
+2. Open playable verified agents to CryptoAgents only.
+3. NFTs from other collections can join as playable characters, but they participate in the economy only as purchasers, not as builders or earners.
+
+v1 of the game itself is crypto-free. Wallet connect comes later.
+
+## Scrap Core demo
+
+The first playable slice is in [`scrap-core/`](scrap-core/): a piece of the center wasteland under the firmament sky, built in **Godot 4.3** with placeholder primitive art. You play Agent 12 (Kong DNA) as a box-built stand-in, scavenge Scrap, and build a small outpost with a Power generator and Shield wall. It is single-player and has no chat. There is no crypto in the demo.
+
+Open the `scrap-core` folder in Godot 4.3 and press Play. Controls and rules are in [`scrap-core/README.md`](scrap-core/README.md).
+
+![Title screen](scrap-core/screenshots/01_title.png)
+
+![An outpost with a Power generator and Shield wall](scrap-core/screenshots/03_outpost.png)
+
+![The firmament dome and 11's crack of light](scrap-core/screenshots/04_firmament.png)
+
+## This repository
+
+```
+x402-agent-civilization/
+├── README.md                    # Current plan (this file)
+├── LICENSE                      # MIT
+├── scrap-core/                  # Scrap Core demo (Godot 4.3 source + screenshots)
+├── docs/archive/                # Historical 2025 hackathon / Good Morning City docs
+└── programs/bridge/src/lib.rs   # Historical Solana program stub, not used by the game
+```
+
+The repository name is leftover from the 2025 hackathon entry.
+
+## Connect
+
+- X: [@jaynormas](https://twitter.com/jaynormas)
+- GitHub: [github.com/jaynormas/x402-agent-civilization](https://github.com/jaynormas/x402-agent-civilization)
